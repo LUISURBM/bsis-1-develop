@@ -1,17 +1,17 @@
-# Package Files #
-*.war
-*.ear
-
-.DS_Store
+*.sw?
+.#*
+*#
+*~
 .classpath
 .project
-.settings/
-target/
-~/
-
-# IntelliJ #
+.settings
+bin
+build
+target
+dependency-reduced-pom.xml
+*.sublime-*
+/scratch
+.gradle
+README.html
+.idea
 *.iml
-*.ipr
-*.iws
-*.idea/
-*out/
